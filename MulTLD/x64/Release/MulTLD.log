@@ -1,0 +1,162 @@
+﻿  camExample.cpp
+d:\multld\multld\Matrix.h(284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(295): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(394): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
+d:\multld\multld\Matrix.h(403): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(404): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(409): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(441): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(443): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(445): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(451): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(453): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(455): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(462): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 参见“fopen”的声明
+d:\multld\multld\Matrix.h(465): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 参见“sprintf”的声明
+d:\multld\multld\Matrix.h(479): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\multld\multld\Matrix.h(564): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(605): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(636): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(637): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(650): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(651): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(652): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(691): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(732): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(759): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(760): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(773): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(774): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(775): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(900): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(945): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(946): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(952): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\Matrix.h(953): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\Matrix.h(959): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(963): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(967): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(971): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(976): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\Matrix.h(977): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\Matrix.h(985): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(987): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(994): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(996): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(1017): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(1043): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(1053): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(1123): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(1158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 参见“fopen”的声明
+d:\multld\multld\Matrix.h(1281): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(1282): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(1292): warning C4244: “参数”: 从“const float”转换到“const int”，可能丢失数据
+d:\multld\multld\Matrix.h(1303): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\multld\multld\Matrix.h(1304): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\multld\multld\Matrix.h(1309): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Matrix.h(1348): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(151): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\LKTracker.h(200): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(201): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(212): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(213): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(217): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(218): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(303): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(328): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\LKTracker.h(329): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\LKTracker.h(406): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(407): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(460): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(517): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(535): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(536): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\LKTracker.h(565): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\LKTracker.h(576): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(239): warning C4305: “初始化”: 从“double”到“float”截断
+d:\multld\multld\FernFilter.h(240): warning C4305: “初始化”: 从“double”到“float”截断
+d:\multld\multld\FernFilter.h(273): warning C4244: “=”: 从“const float”转换到“int”，可能丢失数据
+d:\multld\multld\FernFilter.h(274): warning C4244: “=”: 从“const float”转换到“int”，可能丢失数据
+d:\multld\multld\FernFilter.h(291): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\FernFilter.h(355): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(492): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(494): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(552): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\FernFilter.h(558): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\FernFilter.h(858): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+d:\multld\multld\FernFilter.h(895): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(896): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(1026): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(1037): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\FernFilter.h(1038): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\FernFilter.h(1044): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\FernFilter.h(1209): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(1210): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(1211): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(1212): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(1268): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(1275): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(1319): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\FernFilter.h(1320): warning C4244: “初始化”: 从“const int”转换到“float”，可能丢失数据
+d:\multld\multld\FernFilter.h(1323): warning C4244: “参数”: 从“const float”转换到“const int”，可能丢失数据
+d:\multld\multld\FernFilter.h(1324): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\FernFilter.h(1324): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\multld\multld\FernFilter.h(1361): warning C4305: “参数”: 从“double”到“const float”截断
+d:\multld\multld\FernFilter.h(1363): warning C4305: “参数”: 从“double”到“const float”截断
+d:\multld\multld\FernFilter.h(1393): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Histogram.h(77): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\multld\multld\Histogram.h(78): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Histogram.h(89): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Histogram.h(90): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Histogram.h(91): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Histogram.h(118): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\Histogram.h(121): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\Histogram.h(146): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Histogram.h(161): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\Histogram.h(164): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\Histogram.h(171): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
+d:\multld\multld\Histogram.h(177): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\Histogram.h(190): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Histogram.h(200): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\Histogram.h(227): warning C4244: “参数”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\multld\multld\Histogram.h(228): warning C4244: “参数”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\multld\multld\Histogram.h(229): warning C4244: “参数”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\multld\multld\Histogram.h(233): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\multld\multld\Histogram.h(285): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\NNClassifier.h(150): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\multld\multld\NNClassifier.h(150): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\NNClassifier.h(265): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\NNClassifier.h(357): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\NNClassifier.h(373): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\NNClassifier.h(425): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\NNClassifier.h(430): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\NNClassifier.h(434): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(207): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(217): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(218): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(221): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(222): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(318): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(342): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(351): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(367): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(371): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(447): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(674): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(693): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
+d:\multld\multld\MultiObjectTLD.h(694): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
+camExample.cpp(90): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+camExample.cpp(91): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+camExample.cpp(213): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+camExample.cpp(214): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+camExample.cpp(250): warning C4244: “=”: 从“float”转换到“char”，可能丢失数据
+camExample.cpp(251): warning C4244: “=”: 从“float”转换到“char”，可能丢失数据
+camExample.cpp(252): warning C4244: “=”: 从“float”转换到“char”，可能丢失数据
+camExample.cpp(258): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+camExample.cpp(259): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  已完成代码的生成
+  MulTLD.vcxproj -> D:\MulTLD\x64\Release\MulTLD.exe
